@@ -1,6 +1,6 @@
 ## VOICE ASSISTANT
 
-Made using python.
+Made using python. It is a good voice assistant.
 
 ## features
 
